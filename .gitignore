@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+.ipynb_checkpoints
+*.egg-info/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data (do not upload datasets)
+data/
+datasets/
+*.csv
+*.xlsx
+
+# Models
+models/
+*.pkl
+
+# Logs
+*.log
